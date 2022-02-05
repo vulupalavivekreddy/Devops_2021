@@ -1,8 +1,9 @@
 echo "hello world"
-
-from alapine
+<<<<<<< HEAD
 
 stage ["hello"]
-
+}
 
 }
+    stage ["hello"]
+  }
