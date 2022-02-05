@@ -1,3 +1,4 @@
 from alpine
 MAINTAINER 'mystique'
 CMD ['echo'. 'hello, welcome to galaxy']
+}
